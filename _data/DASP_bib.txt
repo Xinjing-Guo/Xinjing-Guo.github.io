@@ -1,0 +1,14 @@
+@article{Huang_2022,
+doi = {10.1088/1674-4926/43/4/042101},
+url = {https://dx.doi.org/10.1088/1674-4926/43/4/042101},
+year = {2022},
+month = {apr},
+publisher = {Chinese Institute of Electronics},
+volume = {43},
+number = {4},
+pages = {042101},
+author = {Menglin Huang and Zhengneng Zheng and Zhenxing Dai and Xinjing Guo and Shanshan Wang and Lilai Jiang and Jinchen Wei and Shiyou Chen},
+title = {DASP: Defect and Dopant ab-initio Simulation Package},
+journal = {Journal of Semiconductors},
+abstract = {In order to perform automated calculations of defect and dopant properties in semiconductors and insulators, we developed a software package, the Defect and Dopant ab-initio Simulation Package (DASP), which is composed of four modules for calculating: (i) elemental chemical potentials, (ii) defect (dopant) formation energies and charge-state transition levels, (iii) defect and carrier densities and (iv) carrier dynamics properties of high-density defects. DASP uses the materials genome database for quick determination of competing secondary phases when calculating the elemental chemical potential that stabilizes compound semiconductors. DASP calls the ab-initio software to perform the total energy, structural relaxation and electronic structure calculations of the defect supercells with different charge states, based on which the defect formation energies and charge-state transition levels are calculated. Then DASP can calculate the equilibrium densities of defects and electron and hole carriers as well as the Fermi level in semiconductors under different chemical potential conditions and growth/working temperature. For high-density defects, DASP can calculate the carrier dynamics properties such as the photoluminescence (PL) spectrum and carrier capture cross sections which can interpret the deep level transient spectroscopy (DLTS). Here we will show three application examples of DASP in studying the undoped GaN, C-doped GaN and quasi-one-dimensional SbSeI.}
+}
