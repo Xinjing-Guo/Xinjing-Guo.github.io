@@ -16,11 +16,14 @@
   /* Style the links inside the navigation bar */
   .topnav a {
     float: right;
-    color: #f2f2f2;
+    color: #FFFFFFw;
     text-align: center;
     padding: 18px 9px;
     text-decoration: none;
     font-size: 17px;
+  }
+  .topnav a:hover {
+  color: red; /* 鼠标悬停时，链接文本的颜色变为红色 */
   }
   
   /* Change the color of links on hover */
