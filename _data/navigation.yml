@@ -4,11 +4,11 @@ main:
     url: ./#contact 
     right: true 
 
-  #- title: "Services"
-  #  url: ./#services
+  - title: "Services"
+    url: ./#services
 
-  #- title: "Talks"
-  #  url: ./#invited-talks
+  - title: "Conference and Talks"
+    url: ./#invited-talks
 
   #- title: "Teaching"
   #  url: ./#teaching
@@ -16,8 +16,8 @@ main:
   - title: "Publications"
     url: ./#publications
 
-  #- title: "News"
-  #  url: ./#news
+  - title: "News"
+    url: ./#news
 
-  - title: "Bio"
+  - title: "About Me"
     url: ./#about-me
