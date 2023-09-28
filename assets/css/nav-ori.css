@@ -3,12 +3,12 @@
     background-color: #002D72;
     overflow: hidden;
 	position:fixed;
-	z-index:999;
+	z-index:1200;
     width:100%;
   }
 
   .topnav img {
-    margin-bottom:-17.5pt;
+    margin-bottom:-18pt;
     margin-top:-16.5pt;
     margin-left:30%;
   }
