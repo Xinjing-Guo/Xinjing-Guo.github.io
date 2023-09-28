@@ -1,29 +1,28 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
+title: Xinjing-Guo
+position: Bachelor-Ph.D. Student
+affiliation: School of Microelectronics, Fudan University
+affiliation_link: https://sme.fudan.edu.cn
 affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yliu538 (at) jhu.edu
+email: xinjingguo22@m.fudan.edu.cn
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
-
+keywords: xinjing guo, xinjing-guo, guo xinjing, xinjing, guoxinjing
+canonical: https://xinjing-guo.github.io/
+description: Xinjing-Guo("郭新敬") now is a Phd student at Fudan University. His research lies in 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
-link_type: text #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=un7c83MAAAAJ
+#cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+github_link: https://github.com/Xinjing-Guo
+#linkedin: https://www.linkedin.com/in/liuyaoyao/
+#twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
 avatar: https://img.yliu.me/avatar.jpg
@@ -31,7 +30,7 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
+footnote: Feel free to contact me!
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
