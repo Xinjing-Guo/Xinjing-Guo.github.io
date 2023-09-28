@@ -2,7 +2,6 @@
 title: Xinjing-Guo
 position: Bachelor-Ph.D. Student
 affiliation: School of Microelectronics, Fudan University
-affiliation: Department of Physics, Fudan University
 affiliation_link: https://sme.fudan.edu.cn
 affiliation_logo: ./assets/img/LogoWhite.jpg
 email: xinjingguo22@m.fudan.edu.cn
@@ -26,18 +25,18 @@ github_link: https://github.com/Xinjing-Guo
 #twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
+avatar:  ./assets/img/IMG_0546.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 footnote: Feel free to contact me!
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote_link: https://xinjing-guo.github.io
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+#clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:
