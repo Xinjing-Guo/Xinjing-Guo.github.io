@@ -1,5 +1,5 @@
 # Basic Information 
-title: Xinjing-Guo(郭新敬)
+title: Xinjing-Guo
 position: Bachelor-Ph.D. Student
 affiliation: School of Microelectronics, Fudan University
 affiliation_link: https://sme.fudan.edu.cn
@@ -9,7 +9,7 @@ email: xinjingguo22@m.fudan.edu.cn
 # Search Engine Optimization (SEO)
 keywords: xinjing guo, xinjing-guo, guo xinjing, xinjing, guoxinjing
 canonical: https://xinjing-guo.github.io/
-description: Xinjing-Guo("郭新敬") now is a Phd student at Fudan University. His research lies in 
+description: Xinjing-Guo(郭新敬) now is a Phd student at Fudan University. His research lies in 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
 
@@ -25,7 +25,7 @@ github_link: https://github.com/Xinjing-Guo
 #twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar:  ./assets/img/Photo.jpg
+avatar:  ./assets/img/Photo-New.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
