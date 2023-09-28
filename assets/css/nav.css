@@ -27,14 +27,14 @@
     float: right;
     color: #FFFFFF;
     text-align: center;
-    padding: 10px 9px;
+    padding: 18px 9px;
     text-decoration: none;
     font-size: 17px;
   }
   
   /* Change the color of links on hover */
   .topnav a.normal:hover {
-    background-color: white;
+    background-color: #002D72;
     color: red;
   }
   
@@ -54,7 +54,7 @@
       }
 
     .topnav a.normal {
-        padding: 10px 5px;
+        padding: 18px 9px;
     }
 
    }
@@ -139,7 +139,7 @@
       .topnav a.icon {
         color: white;
         display: block;
-        padding: 14px 16px;
+        padding: 16px 16px;
         font-size: 17px;
         position: absolute;
         float: right;
@@ -151,7 +151,7 @@
       .topnav a.right {
         color: white;
         float: none;
-        padding: 14px 16px;
+        padding: 16px 16px;
         text-decoration: none;
         font-size: 17px;
         display: block;
