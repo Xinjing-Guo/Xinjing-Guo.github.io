@@ -1,6 +1,6 @@
 main:
 
-  - title: "DASP: Defect and Dopant ab-initio Simulation Package"
+   - title: "DASP: Defect and Dopant ab-initio Simulation Package"
      authors: Menglin Huang, Zhengneng Zheng, Zhenxing Dai, <strong>Xinjing Guo</strong>, Shanshan Wang, Lilai Jiang, Jinchen Wei and Shiyou Chen*  (*Corresponding authors)
      conference_short: JOS
      conference: Journal of Semiconductors
