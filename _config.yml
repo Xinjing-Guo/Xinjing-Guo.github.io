@@ -3,6 +3,8 @@ title: Xinjing-Guo
 position: Bachelor-Ph.D. Student
 affiliation: School of Microelectronics, Fudan University
 affiliation_link: https://sme.fudan.edu.cn
+affiliation2: School of Microelectronics, Fudan University
+affiliation_link: https://sme.fudan.edu.cn
 affiliation_logo: ./assets/img/LogoWhite.jpg
 email: xinjingguo22@m.fudan.edu.cn
 
@@ -25,7 +27,7 @@ github_link: https://github.com/Xinjing-Guo
 #twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar:  ./assets/img/IMG_0546.jpeg
+#avatar:  ./assets/img/IMG_0546.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
