@@ -27,7 +27,7 @@
     float: right;
     color: #FFFFFF;
     text-align: center;
-    padding: 10px 9px;
+    padding: 10px 5px;
     text-decoration: none;
     font-size: 17px;
   }
@@ -130,7 +130,7 @@
       .topnav a.normal {
         color: white;
         float: none;
-        padding: 18px 16px;
+        padding: 10px 5px;
         text-decoration: none;
         font-size: 17px;
         display: block;
@@ -139,7 +139,7 @@
       .topnav a.icon {
         color: white;
         display: block;
-        padding: 18px 16px;
+        padding: 10px 5px;
         font-size: 17px;
         position: absolute;
         float: right;
@@ -151,7 +151,7 @@
       .topnav a.right {
         color: white;
         float: none;
-        padding: 18px 16px;
+        padding: 10px 5px;
         text-decoration: none;
         font-size: 17px;
         display: block;
