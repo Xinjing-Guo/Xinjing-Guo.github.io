@@ -4,7 +4,7 @@ position: Bachelor-Ph.D. Student
 affiliation: School of Microelectronics, Fudan University
 affiliation_link: https://sme.fudan.edu.cn
 affiliation2: Key Laboratory of Computational Physical Sciences, Fudan University
-affiliation_link2: www.cps.fudan.edu.cn
+affiliation_link2: https://phys.fudan.edu.cn
 affiliation_logo: ./assets/img/LogoWhite.jpg
 email: xinjingguo22@m.fudan.edu.cn
 
@@ -16,7 +16,7 @@ description: Xinjing-Guo(郭新敬) now is a Phd student at Fudan University. Hi
 enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: true
+enable_last_update: false
 
 # Links
 link_type: icon #text/icon
