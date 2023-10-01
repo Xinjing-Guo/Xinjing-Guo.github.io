@@ -16,7 +16,7 @@ description: Xinjing-Guo(郭新敬) now is a Phd student at Fudan University. Hi
 enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
 link_type: icon #text/icon
@@ -38,7 +38,7 @@ footnote_link: https://xinjing-guo.github.io
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-#clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:
