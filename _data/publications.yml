@@ -4,7 +4,7 @@ main:
      authors: Menglin Huang, Zhengneng Zheng, Zhenxing Dai, <strong>Xinjing Guo</strong>, Shanshan Wang, Lilai Jiang, Jinchen Wei and Shiyou Chen*  (*Corresponding authors)
      conference_short: JOS
      conference: Journal of Semiconductors
-     pdf: https://iopscience.iop.org/article/10.1088/1674-4926/43/4/042101/pdf
+     pdf: http://gofile.me/6TMGF/9xNraLjTv
      #code: https://github.com/MrGiovanni/ContinualLearning
      bibtex: ./_data/DASP_bib.txt
      #image: ./assets/img/teaser_example_2.png
