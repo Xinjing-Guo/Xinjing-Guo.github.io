@@ -6,7 +6,7 @@
 <br />
 <strong>Email:</strong> <email>xinjingguo22 (at) m.fudan.edu.cn</email>
 <br />
-<strong>Phone:</strong> (86) 15201767931</p>
+<strong>Phone:</strong> (+86)15201767931
 
 <p><strong>Address:</strong> 
 <br />
