@@ -7,7 +7,7 @@ main:
      pdf: http://gofile.me/6TMGF/9xNraLjTv
      #code: https://github.com/MrGiovanni/ContinualLearning
      bibtex: ./_data/DASP_bib.txt
-     #image: ./assets/img/teaser_example_2.png
+     image: ./assets/img/DASP-Paper-Cover.png
      notes:   "Cites: 18"
      
 
