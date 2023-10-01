@@ -2,10 +2,11 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&amp;entry=tt">3400 N. Charles St., Baltimore, MD 21218-2625</a>
+
+<p><strong>Address:</strong> <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d571.8922779226768!2d121.50946364433939!3d31.33849886733006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDIwJzE4LjEiTiAxMjHCsDMwJzM1LjgiRQ!5e0!3m2!1szh-CN!2suk!4v1696165015864!5m2!1szh-CN!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
-<strong>Office Location:</strong> Malone Hall 248
+<strong>Office Location:</strong> Jiangwan Campus of Fudan University No.1 cross-disciplinary Building, A5004
 <br />
-<strong>Email:</strong> <email>yliu538 (at) jhu.edu</email>
+<strong>Email:</strong> <email>xinjingguo22 (at) m.fudan.edu.cn</email>
 <br />
-<strong>Phone:</strong> (857) 209-8688</p>
+<strong>Phone:</strong> (86) 15201767931</p>
