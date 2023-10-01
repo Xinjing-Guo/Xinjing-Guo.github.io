@@ -5,7 +5,7 @@ layout: homepage
 <h2 id="about-me"></h2>
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
-I am currently a Ph.D. student in the **School of Microelectronics** at [Fudan University](https://sme.fudan.edu.cn). I am so fortunate to be advised by [Prof. Shiyou Chen](https://sme.fudan.edu.cn/5f/c8/c31141a352200/page.htm) and the postdoctoral fellow [Menglin Huang]. I recieve my B.Sc. in Physics at [East China Normal University](https://phy.ecnu.edu.cn). 
+I am currently a Ph.D. student in the **School of Microelectronics** at [Fudan University](https://sme.fudan.edu.cn). I am so fortunate to be advised by [Prof. Shiyou Chen](https://sme.fudan.edu.cn/5f/c8/c31141a352200/page.htm) and the postdoctoral fellow [Menglin Huang](https://www.researchgate.net/profile/Menglin-Huang). I recieve my B.Sc. in Physics at [East China Normal University](https://phy.ecnu.edu.cn). 
 
 My research lies at the intersection of **Computational Physics** and **Microelectronics** -- with a special focus on **the impact of defects and impurities in semiconductor devices on their electrical properties and reliability from the perspective of first-principles calculations.** My research interests include **Atomic Simulation of Microelectronic Devices** and **Physical Property of Defects in Semiconductors**.
 
