@@ -182,7 +182,7 @@
       {% endif %}
       <br>
       {% if site.enable_last_update %}
-      <small>Last Update:
+      Last Update:
             <script>
               const monthNames = ["January", "Februray", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
               ];
@@ -190,7 +190,6 @@
               var showAs = modiDate.getDate() + ". " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
               document.write(showAs);
             </script>
-      </small> 
       {% endif %}
 
       {% if site.footnote %}
