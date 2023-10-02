@@ -13,7 +13,7 @@ keywords: xinjing guo, xinjing-guo, guo xinjing, xinjing, guoxinjing
 canonical: https://xinjing-guo.github.io/
 description: Xinjing-Guo(郭新敬) now is a Phd student at Fudan University. His research lies in 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: true
