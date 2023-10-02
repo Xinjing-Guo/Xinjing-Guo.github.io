@@ -130,7 +130,7 @@
       .topnav a.normal {
         color: white;
         float: none;
-        padding: 10px 5px;
+        padding: 18px 5px;
         text-decoration: none;
         font-size: 17px;
         display: block;
@@ -139,7 +139,7 @@
       .topnav a.icon {
         color: white;
         display: block;
-        padding: 10px 5px;
+        padding: 18px 5px;
         font-size: 17px;
         position: relative;
         float: right;
@@ -151,7 +151,7 @@
       .topnav a.right {
         color: white;
         float: none;
-        padding: 10px 5px;
+        padding: 18px 5px;
         text-decoration: none;
         font-size: 17px;
         display: block;
