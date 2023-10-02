@@ -141,7 +141,7 @@
         display: block;
         padding: 18px 5px;
         font-size: 17px;
-        position: relative;
+        position: absolute;
         float: right;
         right: 0;
         top: 0;
