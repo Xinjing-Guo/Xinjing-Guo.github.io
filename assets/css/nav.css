@@ -25,19 +25,19 @@
     display: inline-block; /* 让图片以块级元素的方式显示 */
 } */
 
-.topnav img {
+/* .topnav img {
     margin-bottom: -16.5pt;
     margin-top: -12.5pt;
     display: block;
     margin-left: 30%;
-}
+} */
 
 
-/*   .topnav img {
-    margin-bottom:4pt;
-    margin-top:4pt;
+  .topnav img {
+    margin-bottom:-16.5pt;
+    margin-top:-12.5pt;
     margin-left:30%;
-  } */
+  }
   
   /* Style the links inside the navigation bar */
   .topnav a.normal {
