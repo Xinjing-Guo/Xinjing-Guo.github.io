@@ -15,9 +15,9 @@
 .topnav a.icon {
     display: none;
 }
-.topnav {
+/* .topnav {
     text-align: center;
-}
+} */
 
 /* .topnav img {
     margin-bottom: 4pt;
@@ -26,7 +26,7 @@
 } */
 
 .topnav img {
-    margin-bottom: 4pt;
+    margin-bottom: auto;
     margin-top: auto;
     display: block;
     margin-left: 30%;
