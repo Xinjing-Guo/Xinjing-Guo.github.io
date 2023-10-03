@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import os
 
-author: dict = scholarly.search_author_id('Uf9GqRsAAAAJ')
+author: dict = scholarly.search_author_id('un7c83MAAAAJ')
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
@@ -25,7 +25,7 @@ with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
 shieldio_data_mtl = {
   "schemaVersion": 1,
   "label": "citations",
-  "message": f"{author['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']}",
+  "message": f"{author['publications']['un7c83MAAAAJ:u5HHmVD_uO8C']['num_citations']}",
 }
 with open(f'results/gs_data_shieldsio_mtl.json', 'w') as outfile:
     json.dump(shieldio_data_mtl, outfile, ensure_ascii=False)
