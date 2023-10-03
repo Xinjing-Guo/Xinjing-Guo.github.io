@@ -37,6 +37,8 @@
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
+      {% endif %}
+      {% if link.notes %}
       <br>
       <strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=un7c83MAAAAJ&citation_for_view=un7c83MAAAAJ:u5HHmVD_uO8C"><i id="total_citation_mtl">18+</i><i style="color:#e74d3c; font-weight:600"> Citations • </i></a></strong>
       {% endif %}
