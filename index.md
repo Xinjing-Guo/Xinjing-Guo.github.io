@@ -18,6 +18,8 @@ My research lies at the intersection of **Computational Physics** and **Microele
 
 {% include_relative _includes/talks.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
