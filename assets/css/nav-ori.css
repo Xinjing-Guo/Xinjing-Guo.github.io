@@ -3,7 +3,7 @@
     background-color: #002D72;
     overflow: hidden;
 	position:fixed;
-	z-index:1200;
+	z-index:999;
     width:100%;
   }
 
@@ -48,7 +48,7 @@
       }
 
     .topnav a {
-        padding: 10px 5px;
+        padding: 18px 5px;
     }
 
    }
