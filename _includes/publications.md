@@ -77,7 +77,7 @@
   <script>
       $(document).ready(function () {
           
-          var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
+          var gsDataBaseUrl = 'https://raw.githubusercontent.com/Xinjing-Guo/Xinjing-Guo.github.io/'
           
           $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
               var totalCitation = data['publications']['un7c83MAAAAJ:u5HHmVD_uO8C']['num_citations']
