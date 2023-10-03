@@ -37,7 +37,7 @@
       {% endif %}
       {% if link.notes %}
       <br>
-      <strong> <a style="color:#e74d3c; font-weight:600" href={{ link.google_scholar }}><i id="total_citation_mtl">{{ link.notes }}</i><i style="color:#e74d3c; font-weight:600"> Citations </i></a></strong>
+      <strong> <a style="color:#e74d3c; font-weight:600" href="{{ link.google_scholar }}"><i id="total_citation_mtl">{{ link.notes }}</i><i style="color:#e74d3c; font-weight:600"> Citations </i></a></strong>
       {% endif %}
     </div>
   </div>
