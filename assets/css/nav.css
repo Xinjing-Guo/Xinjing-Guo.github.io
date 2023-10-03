@@ -19,11 +19,19 @@
     text-align: center;
 }
 
-.topnav img {
+/* .topnav img {
     margin-bottom: 4pt;
     margin-top: 0pt;
     display: inline-block; /* 让图片以块级元素的方式显示 */
+} */
+
+.topnav img {
+    margin-bottom: 4pt;
+    margin-top: auto;
+    display: block;
+    margin-left: 30%;
 }
+
 
 /*   .topnav img {
     margin-bottom:4pt;
