@@ -8,6 +8,6 @@ main:
      #code: https://github.com/MrGiovanni/ContinualLearning
      bibtex: ./_data/DASP_bib.txt
      image: ./assets/img/DASP-Paper-Cover.png
-     notes:   "Cites: 18"
+     notes:   "18+"
      
 
