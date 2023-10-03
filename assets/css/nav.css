@@ -17,8 +17,8 @@
 }
 
   .topnav img {
-    margin-bottom:-20.5pt;
-    margin-top:-12.5pt;
+    margin-bottom:-20pt;
+    margin-top:-12pt;
     margin-left:30%;
   }
   
@@ -27,7 +27,7 @@
     float: right;
     color: #FFFFFF;
     text-align: center;
-    padding: 10px 5px;
+    padding: 18px 5px;
     text-decoration: none;
     font-size: 17px;
   }
@@ -54,7 +54,7 @@
       }
 
     .topnav a.normal {
-        padding: 10px 5px;
+        padding: 18px 5px;
     }
 
    }
