@@ -1,8 +1,11 @@
 main:
 
+  - title: "Blog"
+    url: https://xinjingguo.wordpress.com
+    right: true
+    
   - title: "Contact"
     url: ./#contact 
-    right: true 
 
   #- title: "Awards"
     #url: ./#services
