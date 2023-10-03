@@ -15,15 +15,7 @@
 .topnav a.icon {
     display: none;
 }
-/* .topnav {
-    text-align: center;
-} */
 
-/* .topnav img {
-    margin-bottom: 4pt;
-    margin-top: 0pt;
-    display: inline-block; /* 让图片以块级元素的方式显示 */
-} */
 
 /* .topnav img {
     margin-bottom: -16.5pt;
@@ -33,7 +25,7 @@
 } */
 
 
-  .topnav img {
+.topnav img {
     margin-bottom:-16.5pt;
     margin-top:-12.5pt;
     margin-left:30%;
