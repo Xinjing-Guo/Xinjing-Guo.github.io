@@ -126,6 +126,16 @@
     .topnav #myLinks {
         display: none;
       }
+      
+      .topnav a.normal {
+        color: white;
+        float: none;
+        padding: 18px 5px;
+        text-decoration: none;
+        font-size: 17px;
+        display: block;
+      }
+
       .topnav a.icon {
         color: white;
         display: block
@@ -137,15 +147,6 @@
         top: 0;
         margin-right:5%;
       }
-      .topnav a.normal {
-        color: white;
-        float: none;
-        padding: 18px 5px;
-        text-decoration: none;
-        font-size: 17px;
-        display: block;
-      }
-
 
       .topnav a.right {
         color: white;
