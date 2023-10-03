@@ -14,9 +14,8 @@
 
 <li><strong>[Sept. 2021]</strong> The Seventh China International <strong>"Internet+"</strong> College Students Innovation and Entrepreneurship Competition <strong> <a style="color:#e74d3c; font-weight:600"><i></i><i style="color:#e74d3c; font-weight:600"> National Gold Award </i></a></strong> </li>
 
-<li><strong>[Jun. 2014]</strong> <strong> <a style="color:#e74d3c; font-weight:600"><i></i><i style="color:#e74d3c; font-weight:600"> Excellent Student </i></a></strong> </li> of Henan Province
+<li><strong>[Jun. 2014]</strong> <strong> <a style="color:#e74d3c; font-weight:600"><i></i><i style="color:#e74d3c; font-weight:600"> Excellent Student </i></a></strong> of Henan Province </li>
  
-</div>
 
 </ul>
 
