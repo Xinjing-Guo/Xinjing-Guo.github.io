@@ -9,5 +9,6 @@ main:
      bibtex: ./_data/DASP_bib.txt
      image: ./assets/img/DASP-Paper-Cover.png
      notes:   "18+"
+     google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=un7c83MAAAAJ&citation_for_view=un7c83MAAAAJ:u5HHmVD_uO8C
      
 
