@@ -21,7 +21,7 @@ enable_last_update: true
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=un7c83MAAAAJ
-#cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+cv_link: ./assets/teaser/Resume\ of\ XinjingGuo.pdf
 github_link: https://github.com/Xinjing-Guo
 #linkedin: https://www.linkedin.com/in/liuyaoyao/
 #twitter: https://twitter.com/YaoyaoLiu1/
