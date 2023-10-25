@@ -1,12 +1,12 @@
 <h1 id="contact"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
-
-<strong>Office Location:</strong> Jiangwan Campus of Fudan University No.1 cross-disciplinary Building, A5004, No. 2005 Songhu Road, Yangpu District, Shanghai, China.
+<strong>Address:</strong> Jiangwan Campus of Fudan University, No. 2005 Songhu Road, Yangpu District, Shanghai, China.
+<strong>Office Location:</strong>  No.1 cross-disciplinary Building, A5004
 <br />
 <strong>Email:</strong> <email>xinjingguo22 (at) m.fudan.edu.cn</email>
 <br />
-<strong>Phone:</strong> (+86)15201767931
+<strong>Phone:</strong> (+86) 15201767931
 
 <p><strong>Address:</strong> 
 <br />
