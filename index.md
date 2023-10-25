@@ -5,9 +5,9 @@ layout: homepage
 <h2 id="about-me"></h2>
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
-I am currently a Ph.D. student in the **School of Microelectronics** at [Fudan University](https://sme.fudan.edu.cn). I am  supervised by [Prof. Shiyou Chen](https://sme.fudan.edu.cn/5f/c8/c31141a352200/page.htm) and the postdoctoral fellow [Menglin Huang](https://www.researchgate.net/profile/Menglin-Huang). Before as a Phd student, I recieve my B.Sc. in Physics at [East China Normal University](https://phy.ecnu.edu.cn). Meanwile, I also minor in Mathematics at [ShangHai Jiao Tong University](https://en.sjtu.edu.cn)
+I am currently a Ph.D. student in the **School of Microelectronics** at [Fudan University](https://sme.fudan.edu.cn). I am  supervised by [Prof. Shiyou Chen](https://sme.fudan.edu.cn/5f/c8/c31141a352200/page.htm) and the postdoctoral fellow [Menglin Huang](https://www.researchgate.net/profile/Menglin-Huang). Before as a Phd student, I recieve my B.Sc. in Physics at [East China Normal University](https://phy.ecnu.edu.cn). Meanwile, I also minor in Mathematics at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn)
 
-My research resides at the intersection of **Computational Physics (with support from Key Laboratory of Computational Physical Sciences (MOE), Fudan University) and Microelectronics (with support from School of Microelectronics, Fudan University), with a particular emphasis on **utilizing first-principles calculations to analyze the influence of defects and impurities in semiconductor devices, addressing their impact on electrical properties and reliability**.
+My research resides at the intersection of **Computational Physics** (with support from Key Laboratory of Computational Physical Sciences (MOE), Fudan University) and **Microelectronics** (with support from School of Microelectronics, Fudan University), with a particular emphasis on **utilizing first-principles calculations to analyze the influence of defects and impurities in semiconductor devices, addressing their impact on electrical properties and reliability**.
 
 My research interests include **Atomic Simulation of Microelectronic Devices** and **Physical Property of Defects in Semiconductors**.
 
