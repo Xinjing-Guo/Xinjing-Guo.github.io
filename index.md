@@ -6,6 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 I am currently a Ph.D. student in the **School of Microelectronics** at [Fudan University](https://sme.fudan.edu.cn). I am  supervised by [Prof. Shiyou Chen](https://sme.fudan.edu.cn/5f/c8/c31141a352200/page.htm) and the postdoctoral fellow [Menglin Huang](https://www.researchgate.net/profile/Menglin-Huang). 
+
 While in my undergraduate studies at [East China Normal University](https://phy.ecnu.edu.cn), I dedicated myself to a degree in Physics and was selected for the Ministry of Education's 'Top Talent Development' program, also known as the '拔尖人才培养计划.'  This program is designed to identify and nurture exceptionally talented students, providing them with enhanced educational and training opportunities across various fields. In 2022, I successfully earned my honorred Bachelor's degree in Physics. At the same time, I also pursued a minor in Mathematics and Applied Mathematics at [Shanghai Jiao Tong University](https://sjtu.edu.cn)
 
 My research resides at the intersection of **Computational Physics** (with support from Key Laboratory of Computational Physical Sciences (MOE), Fudan University) and **Microelectronics** (with support from School of Microelectronics, Fudan University), with a particular emphasis on **utilizing first-principles calculations to analyze the influence of defects and impurities in semiconductor devices, addressing their impact on electrical properties and reliability**.
