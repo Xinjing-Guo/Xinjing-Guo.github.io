@@ -4,6 +4,8 @@
 
 <ul>
 
+<li><strong>[Oct. 2023]</strong>Serve as a <strong>volunteer</strong> at the 24th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN-24). (Fudan University, Shanghai, China)</li>
+
 <li><strong>[Aug. 2023]</strong> Give an <strong>Oral Presentation</strong> on the 1st Seminar of DASP hoosted by Prof. Shiyou Chen (Maanshan City, Anhui Province, China)</li>
 <li><strong>[Aug. 2023]</strong> We win the <strong>Second Prize of the DB-SNU-biz Global Startup</strong> hosted by <stong>DB Finance and SNU</stong>. (Seoul, Korea) </li>
 <li><strong>[Apr. 2023]</strong> I will visit the <stong>1st Symposium on Semiconductor Defect Physics</stong>. (Suzhou City, Jiangsu Province, China)</li>
