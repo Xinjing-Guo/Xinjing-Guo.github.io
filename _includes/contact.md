@@ -9,6 +9,8 @@
 <strong>Phone:</strong> (+86) 15201767931
 
 <p><strong>Address:</strong> 
+    <strong>You can click on the picture below to see this place on Google Map</strong>
+    
 <a href="https://maps.app.goo.gl/eJPUQsfeTdyFuhhSA">
     <img border="0" src="assets/img/Map_new.png" />
 </a>
