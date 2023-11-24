@@ -6,14 +6,13 @@ main:
 
   - title: "Life"
     url: https://xinjingguo.wordpress.com
+
   - title: "Blog"
-    url: xinjing-guo.notion.site
+    url: https://xinjing-guo.notion.site
 
   - title: "Awards"
     url: ./#awards
 
-  - title: "Conference and Talks"
-    url: ./#invited-talks
 
   #- title: "Teaching"
   #  url: ./#teaching
