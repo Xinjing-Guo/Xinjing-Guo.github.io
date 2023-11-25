@@ -8,7 +8,7 @@ main:
     url: https://xinjingguo.wordpress.com
 
   - title: "Blog"
-    url: https://xinjing-guo.notion.site
+    url: https://www.xinjing-guo-blog.top
 
   - title: "Awards"
     url: ./#awards
@@ -23,5 +23,5 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "About Me"
-    url: ./#about-me
+  #- title: "About Me"
+  #  url: ./#about-me
