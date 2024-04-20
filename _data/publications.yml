@@ -1,5 +1,13 @@
 main:
 
+   - title: "Hybrid functional calculation of intrinsic defects in SbSeI"
+     authors: Xinjing Guo, Menglin Huang, and Shiyou Chen*  (*Corresponding authors)
+     conference_short: APS
+     conference: American Physics Society March Meeting, 2024
+     bibtex: ./_data/APS_bib.txt
+     image: ./assets/img/APS-Paper-Cover.png
+     google_scholar: https://meetings.aps.org/Meeting/MAR24/Session/K05.13
+
    - title: "DASP: Defect and Dopant ab-initio Simulation Package"
      authors: Menglin Huang, Zhengneng Zheng, Zhenxing Dai, <strong>Xinjing Guo</strong>, Shanshan Wang, Lilai Jiang, Jinchen Wei and Shiyou Chen*  (*Corresponding authors)
      conference_short: JOS
@@ -8,15 +16,9 @@ main:
      #code: https://github.com/MrGiovanni/ContinualLearning
      bibtex: ./_data/DASP_bib.txt
      image: ./assets/img/DASP-Paper-Cover.png
-     notes:   "27+"
+     notes:   "30+"
      google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=un7c83MAAAAJ&citation_for_view=un7c83MAAAAJ:u5HHmVD_uO8C
      publisher: https://iopscience.iop.org/article/10.1088/1674-4926/43/4/042101/pdf
-   - title: "Hybrid functional calculation of intrinsic defects in SbSeI"
-     authors: Xinjing Guo, Menglin Huang, and Shiyou Chen*  (*Corresponding authors)
-     conference_short: APS
-     conference: American Physics Society March Meeting, 2024
-     bibtex: ./_data/APS_bib.txt
-     image: ./assets/img/APS-Paper-Cover.png
-     google_scholar: https://meetings.aps.org/Meeting/MAR24/Session/K05.13
+
      
 
