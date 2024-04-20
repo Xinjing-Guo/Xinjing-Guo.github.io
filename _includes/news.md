@@ -4,6 +4,8 @@
 
 <ul>
 
+<li><strong>[Aug. 2024]</strong> I will attend <strong>Defects in Semiconductors (Gordon Research Seminar)</strong>. (Newry, Maine, USA)</li>
+
 <li><strong>[Apr. 2024]</strong> I will attend <strong>The 2nd Workshop on Defects in Semiconductors</strong>. (Shaoxing City, Zhejiang Province, China)</li>
 
 <li><strong>[Mar. 2024]</strong> I will attend <strong>APS March Meeting 2024</strong> and give an <strong>oral presentation</strong>. (Minneapolis, MN, USA)</li>
