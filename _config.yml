@@ -6,14 +6,14 @@ affiliation_link: https://sme.fudan.edu.cn
 affiliation2: Key Laboratory of Computational Physical Sciences (MOE), Fudan University
 affiliation_link2: https://phys.fudan.edu.cn
 affiliation_logo: ./assets/img/LogoWhite.jpg
-email: xinjingguo22(at)m.fudan.edu.cn
+email: xinjingguo22 (at) m.fudan.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: xinjing guo, xinjing-guo, guo xinjing, xinjing, guoxinjing
 canonical: https://xinjing-guo.github.io/
 description: Xinjing-Guo(郭新敬) now is a Phd student at Fudan University. His research interests include atomic simulation of deveices and property of defects.
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
+enable_hopkins_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: true
