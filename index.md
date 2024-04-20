@@ -11,7 +11,7 @@ While in my undergraduate studies at [East China Normal University](https://phy.
 
 My research resides at the intersection of **Computational Physics** (with support from Key Laboratory of Computational Physical Sciences (MOE), Fudan University) and **Microelectronics** (with support from School of Microelectronics, Fudan University), with a particular emphasis on **utilizing first-principles calculations to analyze the property of defects and impurities in semiconductor devices, addressing the reliability of devices, such as BTI, RTN, TAT and so on.**
 
-My research interests include <strong style="color:#e74d3c; font-weight:600">**Atomic Simulation of Microelectronic Devices** and **Physical Property of Defects in Semiconductors**</strong>.
+My research interests include <strong style="color:#e74d3c; font-weight:600">Atomic Simulation of Microelectronic Devices and Physical Property of Defects in Semiconductors</strong>.
 
 
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
