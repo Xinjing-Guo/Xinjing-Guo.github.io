@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mingye Xie&#39;s Homepage</title>
-    <link>https://myronxie.github.io/</link>
-      <atom:link href="https://myronxie.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mingye Xie&#39;s Homepage</description>
+    <title>Xinjing Guo&#39;s Homepage</title>
+    <link>https://Xinjing-Guo.github.io/</link>
+      <atom:link href="https://Xinjing-Guo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinjing Guo&#39;s Homepage</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://myronxie.github.io/media/icon_hu085fc0e63f35f046b30633788071d6ea_35493_512x512_fill_lanczos_center_3.png</url>
-      <title>Mingye Xie&#39;s Homepage</title>
-      <link>https://myronxie.github.io/</link>
+      <title>Xinjing Guo&#39;s Homepage</title>
+      <link>https://Xinjing-Guo.github.io/</link>
     </image>
     
     <item>
       <title>iDAT: inverse Distillation Adapter-Tuning</title>
-      <link>https://myronxie.github.io/publication/ruan2024idat/</link>
+      <link>https://Xinjing-Guo.github.io/publication/ruan2024idat/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://myronxie.github.io/publication/ruan2024idat/</guid>
+      <guid>https://Xinjing-Guo.github.io/publication/ruan2024idat/</guid>
       <description></description>
     </item>
     
