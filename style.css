@@ -593,16 +593,118 @@ body {
     border-top: 1px solid var(--border);
 }
 
-/* ---- Responsive ---- */
-@media (max-width: 768px) {
-    .header-content { flex-direction: column; text-align: center; gap: 1.5rem; }
-    .contact-row { justify-content: center; }
-    .two-paths { grid-template-columns: 1fr; }
-    .software-grid { grid-template-columns: 1fr; }
-    .edu-list { gap: 0; }
+/* ---- Responsive: Tablet ---- */
+@media (max-width: 960px) {
+    .software-grid { grid-template-columns: 1fr 1fr; }
     .awards-grid { grid-template-columns: 1fr; }
-    .flow-diagram { flex-direction: column; }
+    .main { padding: 0 1.2rem 2rem; }
+}
+
+/* ---- Responsive: Mobile ---- */
+@media (max-width: 640px) {
+    /* Header */
+    .header { padding: 2rem 0 1.8rem; }
+    .header-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 1.2rem;
+        padding: 0 1rem;
+    }
+    .header-photo { order: -1; }
+    .header-photo img { width: 100px; height: 100px; }
+    .name { font-size: 1.8rem; }
+    .name-en { display: block; margin-left: 0; margin-top: 0.2rem; font-size: 0.95rem; }
+    .title { font-size: 0.9rem; }
+    .affiliation { font-size: 0.85rem; }
+    .contact-row {
+        justify-content: center;
+        font-size: 0.78rem;
+        gap: 0.3rem;
+    }
+    .contact-row .sep { margin: 0 0.15rem; }
+
+    /* Navigation */
+    .nav-inner {
+        padding: 0 0.8rem;
+        -webkit-overflow-scrolling: touch;
+    }
+    .nav a {
+        padding: 0.7rem 0.8rem;
+        font-size: 0.8rem;
+    }
+
+    /* Main content */
+    .main { padding: 0 1rem 2rem; }
+    .section { padding-top: 1.8rem; }
+    .section h2 { font-size: 1.15rem; }
+
+    /* Research Overview */
+    .overview-lead {
+        font-size: 0.92rem;
+        padding: 0.8rem 1rem;
+    }
+    .two-paths { grid-template-columns: 1fr; gap: 0.8rem; }
+    .path-card { padding: 1rem; }
+    .path-card p { font-size: 0.85rem; }
+
+    /* Flow diagram */
+    .flow-diagram {
+        flex-direction: column;
+        padding: 1rem 0.8rem;
+        gap: 0.5rem;
+    }
+    .flow-node {
+        min-width: unset;
+        width: 100%;
+        padding: 0.8rem 1rem;
+    }
     .flow-arrow { transform: rotate(90deg); }
-    .name { font-size: 2rem; }
-    .name-en { display: block; margin-left: 0; margin-top: 0.3rem; }
+    .flow-feedback { font-size: 0.75rem; }
+
+    /* Timeline */
+    .timeline { padding-left: 1.5rem; }
+    .timeline-dot { left: -1.5rem; width: 14px; height: 14px; }
+    .timeline-content h3 { font-size: 0.92rem; }
+    .timeline-content li { font-size: 0.85rem; padding-left: 1rem; }
+    .timeline-meta { font-size: 0.75rem; }
+    .timeline-date { font-size: 0.75rem; }
+
+    /* Software */
+    .software-grid { grid-template-columns: 1fr; gap: 0.8rem; }
+    .software-card { padding: 1rem; }
+    .software-header { flex-wrap: wrap; gap: 0.3rem; }
+    .software-header h3 { font-size: 1rem; }
+    .software-date { margin-left: 0; }
+    .software-card p:last-child { font-size: 0.84rem; }
+
+    /* Publications */
+    .pub-list li {
+        padding: 0.7rem 0 0.7rem 2rem;
+        font-size: 0.84rem;
+    }
+
+    /* Awards */
+    .awards-grid { grid-template-columns: 1fr; gap: 0.6rem; }
+    .award-item {
+        padding: 0.6rem 0.8rem;
+        font-size: 0.84rem;
+    }
+    .award-item strong { font-size: 0.84rem; }
+
+    /* Education */
+    .edu-item { padding: 0.8rem 0; gap: 0.8rem; }
+    .edu-icon { width: 36px; height: 36px; font-size: 0.95rem; }
+    .edu-degree { font-size: 0.88rem; }
+    .edu-school { font-size: 0.84rem; }
+
+    /* Footer */
+    .footer { padding: 1.5rem 1rem; font-size: 0.75rem; }
+}
+
+/* Prevent horizontal overflow on all screens */
+html, body { overflow-x: hidden; }
+img { max-width: 100%; height: auto; }
+.timeline-content, .path-card p, .overview-lead, .pub-list li {
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
