@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xinjing Guo | Fudan University</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ========== Header ========== -->
+<header class="header">
+    <div class="header-bg"></div>
+    <div class="header-content">
+        <div class="header-text">
+            <h1 class="name">郭新敬 <span class="name-en">Xinjing Guo</span></h1>
+            <p class="title">Ph.D. Candidate &middot; Integrated Circuit Science and Engineering</p>
+            <p class="affiliation">Fudan University, Shanghai</p>
+            <div class="contact-row">
+                <a href="mailto:gxjtriumph@icloud.com"><i class="fas fa-envelope"></i> gxjtriumph@icloud.com</a>
+                <span class="sep">|</span>
+                <span><i class="fas fa-phone"></i> (+86) 152-0176-7931</span>
+                <span class="sep">|</span>
+                <span><i class="fas fa-map-marker-alt"></i> Shanghai, China</span>
+                <span class="sep">|</span>
+                <a href="https://www.researchgate.net/profile/Xinjing-Guo" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a>
+            </div>
+        </div>
+        <div class="header-photo">
+            <img src="photo.jpg" alt="Xinjing Guo">
+        </div>
+    </div>
+</header>
+
+<!-- ========== Navigation ========== -->
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="#research">Research</a>
+        <a href="#education">Education</a>
+        <a href="#achievements">Achievements</a>
+        <a href="#software">Software</a>
+        <a href="#publications">Publications</a>
+        <a href="#awards">Awards</a>
+    </div>
+</nav>
+
+<main class="main">
+
+<!-- ========== Research Overview ========== -->
+<section id="research" class="section">
+    <h2><i class="fas fa-microscope"></i> Research Overview</h2>
+    <div class="research-overview">
+        <p class="overview-lead">
+            Towards <strong>Reliability-Aware DTCO</strong> &mdash; building a multi-scale simulation chain from
+            <em>atomic defect structures</em> through <em>device degradation</em> to <em>circuit aging</em>.
+        </p>
+        <div class="two-paths">
+            <div class="path-card forward">
+                <div class="path-label">Forward Path</div>
+                <p>Starting from first-principles calculation of gate-dielectric defect properties, extending to large-scale systems via MLIP, predicting device-level &Delta;V<sub>th</sub> degradation through the <strong>All-state Model</strong> and the in-house simulator <strong>RASP</strong>, and reaching circuit-level aging &amp; timing assessment through Compact Model development.</p>
+            </div>
+            <div class="path-card inverse">
+                <div class="path-label">Inverse Path</div>
+                <p>Addressing the core DTCO question &mdash; <em>"which defects dominate degradation?"</em> &mdash; by developing defect density extraction methods based on inverse theory, recovering atomic-level defect parameters from electrical measurements to close the simulation-experiment loop.</p>
+            </div>
+        </div>
+        <div class="flow-diagram">
+            <div class="flow-node">
+                <div class="flow-icon"><i class="fas fa-atom"></i></div>
+                <div class="flow-text">Atomic Defects<br><small>DFT / MLIP</small></div>
+            </div>
+            <div class="flow-arrow"><i class="fas fa-arrow-right"></i></div>
+            <div class="flow-node">
+                <div class="flow-icon"><i class="fas fa-microchip"></i></div>
+                <div class="flow-text">Device Reliability<br><small>All-state Model / RASP</small></div>
+            </div>
+            <div class="flow-arrow"><i class="fas fa-arrow-right"></i></div>
+            <div class="flow-node">
+                <div class="flow-icon"><i class="fas fa-project-diagram"></i></div>
+                <div class="flow-text">Circuit Aging<br><small>Compact Model / HSPICE</small></div>
+            </div>
+            <div class="flow-feedback">
+                <span><i class="fas fa-arrow-left"></i> Defect Parameter Extraction (Inverse Problem)</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ========== Education ========== -->
+<section id="education" class="section">
+    <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+    <div class="edu-list">
+        <div class="edu-item">
+            <div class="edu-icon"><i class="fas fa-university"></i></div>
+            <div class="edu-body">
+                <div class="edu-degree">Ph.D. in Integrated Circuit Science and Engineering</div>
+                <div class="edu-school">Fudan University</div>
+                <div class="edu-date">Sep 2022 &ndash; Present</div>
+            </div>
+        </div>
+        <div class="edu-item">
+            <div class="edu-icon"><i class="fas fa-university"></i></div>
+            <div class="edu-body">
+                <div class="edu-degree">B.Sc. in Physics <span class="edu-badge">Top Student Program (MOE)</span></div>
+                <div class="edu-school">East China Normal University</div>
+                <div class="edu-date">Sep 2018 &ndash; Jun 2022 &middot; <strong>Ranked 1st</strong></div>
+            </div>
+        </div>
+        <div class="edu-item">
+            <div class="edu-icon"><i class="fas fa-university"></i></div>
+            <div class="edu-body">
+                <div class="edu-degree">Minor in Mathematics &amp; Applied Mathematics</div>
+                <div class="edu-school">Shanghai Jiao Tong University</div>
+                <div class="edu-date">Sep 2020 &ndash; Jun 2022</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ========== Research Achievements ========== -->
+<section id="achievements" class="section">
+    <h2><i class="fas fa-flask"></i> Research Achievements</h2>
+
+    <div class="timeline">
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">2022 &ndash; Present</div>
+            <div class="timeline-content">
+                <h3>Atomic-Level Defect Property Simulation</h3>
+                <div class="timeline-meta">1 paper &middot; 1 software copyright &middot; 2 commercial software</div>
+                <ul>
+                    <li><strong>High-throughput defect calculation:</strong> Systematic first-principles study of intrinsic defect properties in SiO<sub>2</sub>, HfO<sub>2</sub> and other gate dielectrics; established defect database.</li>
+                    <li><strong>Software development:</strong> Led development of <strong>ILED</strong> (Intelligent Learning Engine of Defects) for one-stop automated IC material defect property calculation; contributed to core modules of <strong>DASP</strong> (Defect &amp; Dopant Ab-Initio Simulation Package).</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">2024 &ndash; 2025</div>
+            <div class="timeline-content">
+                <h3>ML-Accelerated Defect Property Calculation</h3>
+                <div class="timeline-meta">1 paper</div>
+                <ul>
+                    <li><strong>AI acceleration:</strong> Introduced MLIP to accelerate defect search, reducing computational cost to <strong>7.36%</strong> of DFT while maintaining <strong>&gt;96%</strong> accuracy.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">2023 &ndash; Present</div>
+            <div class="timeline-content">
+                <h3>Device-Level Reliability Simulation Methods &amp; Software</h3>
+                <div class="timeline-meta">3 papers &middot; 1 software copyright &middot; 1 commercial software</div>
+                <ul>
+                    <li><strong>High-throughput computation:</strong> Systematic study of oxygen vacancies in amorphous SiO<sub>2</sub>, discovering 7 stable configurations with wide energy distributions.</li>
+                    <li><strong>Model innovation:</strong> Proposed the <strong>"All-state Model"</strong> for Si/SiO<sub>2</sub> MOSFETs, correcting critical errors in traditional models caused by missing defect paths in amorphous gate dielectrics. <span class="highlight">This model is being integrated into a leading domestic TCAD simulator.</span></li>
+                    <li><strong>Software development:</strong> Led development of <strong>RASP</strong>, enabling cross-scale reliability simulation from atomic defect parameters to device-level threshold voltage shifts.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">2024 &ndash; Present</div>
+            <div class="timeline-content">
+                <h3>Defect Parameter Extraction from Electrical Measurements</h3>
+                <div class="timeline-meta">In progress</div>
+                <ul>
+                    <li>Formulated BTI &Delta;V<sub>th</sub> degradation as a non-negatively constrained Fredholm first-kind integral equation inverse problem. Solved the ill-conditioned linear system via SVD analysis, Tikhonov regularization, and PLS dimensionality reduction to extract NMP defect density distributions from single-set electrical measurements.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-date">2024 &ndash; Present</div>
+            <div class="timeline-content">
+                <h3>Circuit-Level Aging Compact Model Development</h3>
+                <div class="timeline-meta">In progress</div>
+                <ul>
+                    <li><strong>Model innovation:</strong> Developing MOSFET and FinFET circuit-level aging models based on the "All-state Model".</li>
+                    <li><strong>Atomic-resolution circuit aging simulation:</strong> Combining in-house defect parameter extraction methods with HSPICE to build a complete atomic-to-circuit aging simulation chain.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ========== Software ========== -->
+<section id="software" class="section">
+    <h2><i class="fas fa-code"></i> Software Development</h2>
+    <div class="software-grid">
+        <div class="software-card">
+            <div class="software-header">
+                <h3>RASP</h3>
+                <span class="software-role">Core Developer</span>
+                <span class="software-date">2024 &ndash; Present</span>
+            </div>
+            <p class="software-full">Reliability Ab initio Simulation Package</p>
+            <p>All-state model based reliability simulation package. Enables cross-scale simulation from first-principles defect parameters to device-level &Delta;V<sub>th</sub> prediction.</p>
+        </div>
+        <div class="software-card">
+            <div class="software-header">
+                <h3>ILED</h3>
+                <span class="software-role">Core Developer</span>
+                <span class="software-date">2023 &ndash; Present</span>
+            </div>
+            <p class="software-full">Intelligent Learning Engine of Defects</p>
+            <p>One-stop automated IC material defect property calculation software (copyrighted). Integrates MLIP for rapid defect screening.</p>
+        </div>
+        <div class="software-card">
+            <div class="software-header">
+                <h3>DASP</h3>
+                <span class="software-role">Contributor</span>
+                <span class="software-date">2022 &ndash; 2023</span>
+            </div>
+            <p class="software-full">Defect &amp; Dopant Ab-Initio Simulation Package</p>
+            <p>Contributed to core modules. Now commercially deployed with 150+ users across academia and industry, including Huawei HiSilicon.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ========== Publications ========== -->
+<section id="publications" class="section">
+    <h2><i class="fas fa-book"></i> Selected Publications</h2>
+    <ol class="pub-list">
+        <li>
+            <span class="pub-authors"><u>Xinjing Guo</u>, Menglin Huang, Shiyou Chen.</span>
+            <span class="pub-title">"Si/SiO<sub>2</sub> MOSFET reliability physics: From four-state model to all-state model."</span>
+            <span class="pub-venue"><strong>Physical Review Applied</strong> 24, 044040, 2025.</span>
+        </li>
+        <li>
+            <span class="pub-authors"><u>Xinjing Guo</u>, Menglin Huang, Shiyou Chen.</span>
+            <span class="pub-title">"RASP: Reliability ab initio simulation package of MOSFETs based on all-state model."</span>
+            <span class="pub-venue"><strong>Microelectronics Reliability</strong>, Under Review.</span>
+        </li>
+        <li>
+            <span class="pub-authors"><u>Xinjing Guo</u>, Menglin Huang, Shiyou Chen.</span>
+            <span class="pub-title">"An overlooked origin of NBTI in Si based MOSFETs."</span>
+            <span class="pub-venue"><strong>IEEE Electron Device Letters</strong>, Submitted.</span>
+        </li>
+        <li>
+            <span class="pub-authors">Xinpeng Li*, <u>Xinjing Guo</u>*, et al.</span>
+            <span class="pub-title">"Machine learning interatomic potentials accelerate defect exploration in amorphous silica."</span>
+            <span class="pub-venue"><strong>Physical Review Materials</strong>, 2025.</span>
+        </li>
+        <li>
+            <span class="pub-authors">Menglin Huang, ..., <u>Xinjing Guo</u>, et al.</span>
+            <span class="pub-title">"DASP: Defect and Dopant Ab-Initio Simulation Package."</span>
+            <span class="pub-venue"><strong>Journal of Semiconductors</strong> 43, 042101, 2022.</span>
+        </li>
+    </ol>
+</section>
+
+<!-- ========== Awards ========== -->
+<section id="awards" class="section">
+    <h2><i class="fas fa-award"></i> Honors &amp; Awards</h2>
+    <div class="awards-grid">
+        <div class="award-item major">
+            <i class="fas fa-trophy"></i>
+            <div>
+                <strong>National Scholarship</strong>
+                <span>Ministry of Education</span>
+            </div>
+        </div>
+        <div class="award-item major">
+            <i class="fas fa-trophy"></i>
+            <div>
+                <strong>CAS "Shangguang" Scholarship</strong>
+                <span>Chinese Academy of Sciences</span>
+            </div>
+        </div>
+        <div class="award-item major">
+            <i class="fas fa-trophy"></i>
+            <div>
+                <strong>"Internet+" Innovation Competition &mdash; National Gold</strong>
+                <span>7th Edition, 2022</span>
+            </div>
+        </div>
+        <div class="award-item">
+            <i class="fas fa-medal"></i>
+            <div>
+                <strong>DB-SNUbiz Startup Challenge &mdash; Global 2nd Place</strong>
+                <span>Seoul National University, 2022</span>
+            </div>
+        </div>
+        <div class="award-item">
+            <i class="fas fa-medal"></i>
+            <div>
+                <strong>"Challenge Cup" &mdash; National Bronze</strong>
+                <span>13th Edition</span>
+            </div>
+        </div>
+        <div class="award-item">
+            <i class="fas fa-medal"></i>
+            <div>
+                <strong>China International College Students' Innovation Competition &mdash; Silver</strong>
+                <span>Shanghai Division, 2025</span>
+            </div>
+        </div>
+        <div class="award-item">
+            <i class="fas fa-medal"></i>
+            <div>
+                <strong>Fudan "Zhuoyue Cup" &mdash; 1st Prize</strong>
+                <span>2025</span>
+            </div>
+        </div>
+        <div class="award-item">
+            <i class="fas fa-medal"></i>
+            <div>
+                <strong>Annual Innovation Person, ECNU</strong>
+                <span>2021</span>
+            </div>
+        </div>
+        <div class="award-item">
+            <i class="fas fa-medal"></i>
+            <div>
+                <strong>MCM/ICM Honorable Mention</strong>
+                <span>COMAP, 2020</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+</main>
+
+<footer class="footer">
+    <p>&copy; 2025 Xinjing Guo &middot; Fudan University &middot; Last updated April 2026</p>
+</footer>
+
+</body>
+</html>
