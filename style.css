@@ -489,6 +489,11 @@ body {
   background: var(--primary);
   color: #fff;
 }
+.software-links-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
 
 /* ---- Publications ---- */
 .pub-list {
